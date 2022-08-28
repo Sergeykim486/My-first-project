@@ -1,0 +1,15 @@
+D:\Git\learn\project2\obj\Debug\net6.0\project2.csproj.AssemblyReference.cache
+D:\Git\learn\project2\obj\Debug\net6.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\learn\project2\obj\Debug\net6.0\project2.AssemblyInfoInputs.cache
+D:\Git\learn\project2\obj\Debug\net6.0\project2.AssemblyInfo.cs
+D:\Git\learn\project2\obj\Debug\net6.0\project2.csproj.CoreCompileInputs.cache
+D:\Git\learn\project2\bin\Debug\net6.0\project2.exe
+D:\Git\learn\project2\bin\Debug\net6.0\project2.deps.json
+D:\Git\learn\project2\bin\Debug\net6.0\project2.runtimeconfig.json
+D:\Git\learn\project2\bin\Debug\net6.0\project2.dll
+D:\Git\learn\project2\bin\Debug\net6.0\project2.pdb
+D:\Git\learn\project2\obj\Debug\net6.0\project2.dll
+D:\Git\learn\project2\obj\Debug\net6.0\refint\project2.dll
+D:\Git\learn\project2\obj\Debug\net6.0\project2.pdb
+D:\Git\learn\project2\obj\Debug\net6.0\project2.genruntimeconfig.cache
+D:\Git\learn\project2\obj\Debug\net6.0\ref\project2.dll
