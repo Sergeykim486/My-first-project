@@ -1,0 +1,15 @@
+D:\Git\learn\first example\bin\Debug\net6.0\first example.exe
+D:\Git\learn\first example\bin\Debug\net6.0\first example.deps.json
+D:\Git\learn\first example\bin\Debug\net6.0\first example.runtimeconfig.json
+D:\Git\learn\first example\bin\Debug\net6.0\first example.dll
+D:\Git\learn\first example\bin\Debug\net6.0\first example.pdb
+D:\Git\learn\first example\obj\Debug\net6.0\first example.csproj.AssemblyReference.cache
+D:\Git\learn\first example\obj\Debug\net6.0\first example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\learn\first example\obj\Debug\net6.0\first example.AssemblyInfoInputs.cache
+D:\Git\learn\first example\obj\Debug\net6.0\first example.AssemblyInfo.cs
+D:\Git\learn\first example\obj\Debug\net6.0\first example.csproj.CoreCompileInputs.cache
+D:\Git\learn\first example\obj\Debug\net6.0\first example.dll
+D:\Git\learn\first example\obj\Debug\net6.0\refint\first example.dll
+D:\Git\learn\first example\obj\Debug\net6.0\first example.pdb
+D:\Git\learn\first example\obj\Debug\net6.0\first example.genruntimeconfig.cache
+D:\Git\learn\first example\obj\Debug\net6.0\ref\first example.dll
